@@ -5,3 +5,10 @@ h1 {
 h2 {
     color: blue
 }
+
+.container {
+    border: 10px solid red;
+    border-radius: 10px;
+    margin: 20px;
+    width: 900px;
+}
