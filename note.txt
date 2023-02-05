@@ -5,4 +5,4 @@ css id vs class.
 css border, border radius, margin, width.
 css box model, margin, padding, border, content, height, width.
 background color, repeat, position, size, relative image path.
-
+display none,inline,block,inline-block,text decoration,shadow.
