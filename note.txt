@@ -1,0 +1,4 @@
+three type of css: 1. inline css 2. internal/embedded css 3. external css
+css color, measuring unit, font size, font-weight, height, width, alignment
+google search : what is css measuring unit?
+
