@@ -4,4 +4,5 @@ google search : what is css measuring unit?
 css id vs class.
 css border, border radius, margin, width.
 css box model, margin, padding, border, content, height, width.
+background color, repeat, position, size, relative image path.
 
